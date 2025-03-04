@@ -33,7 +33,7 @@ const Auth = () => {
         }
 
         if(avatarURL === '') {
-            avatarURL = 'https://www.canva.com/design/DAGgAiHGqwU/2Sxg-XgXm49gNRqtk1AuKg/edit?utm_content=DAGgAiHGqwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
+            avatarURL = 'http://www.canva.com/design/DAGgAiHGqwU/2Sxg-XgXm49gNRqtk1AuKg/edit?utm_content=DAGgAiHGqwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
         }
 
         const URL = 'http://localhost:8080/auth';
